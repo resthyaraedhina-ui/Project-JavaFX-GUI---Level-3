@@ -14,3 +14,6 @@ Aplikasi katalog produk berbasis **JavaFX** yang terhubung ke database relasiona
 * **Tambah**: Isi *Nama produk*, *Harga (Rp)*, dan pilih *Foto contoh*, lalu klik **Simpan**.
 * **Edit**: Klik salah satu kartu produk di katalog agar datanya muncul di form, ubah isian yang diinginkan, lalu klik **Edit**.
 * **Hapus**: Klik kartu produk yang ingin dihapus, lalu klik **Hapus**.
+
+## Tampilan Produk
+![Tampilan Katalog Produk](KatalogProduk/src/main/resources/image/TampilanKatalogProduk.png)
