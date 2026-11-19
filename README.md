@@ -16,4 +16,4 @@ Aplikasi katalog produk berbasis **JavaFX** yang terhubung ke database relasiona
 * **Hapus**: Klik kartu produk yang ingin dihapus, lalu klik **Hapus**.
 
 ## Tampilan Produk
-![Tampilan Katalog Produk](KatalogProduk/src/main/resources/image/TampilanKatalogProduk.png)
+![Tampilan Katalog Produk](TampilanKatalogProduk.png)
